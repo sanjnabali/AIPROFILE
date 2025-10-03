@@ -32,26 +32,20 @@ const contactMethods = [
     value: 'sanjnabali8@gmail.com',
     href: 'mailto:sanjnabali8@gmail.com'
   },
-  {
-    type: 'phone',
-    icon: '📱',
-    label: 'Phone',
-    value: '+91 8360578672',
-    href: 'tel:+918360578672'
-  },
+  
   {
     type: 'linkedin',
     icon: '💼',
     label: 'LinkedIn',
     value: 'Connect with me',
-    href: 'https://linkedin.com'
+    href: 'https://www.linkedin.com/in/sanjna-bali/'
   },
   {
     type: 'github',
     icon: '💻',
     label: 'GitHub',
     value: 'View my code',
-    href: 'https://github.com'
+    href: 'https://github.com/sanjnabali'
   }
 ];
 
